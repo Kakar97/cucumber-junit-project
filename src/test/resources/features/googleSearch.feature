@@ -14,3 +14,5 @@ Scenario: Search functionality result title verification
     When user types "tesla" in the google search box and clicks enter
     Then user sees "tesla - Google Search" is in the google title
 
+
+
